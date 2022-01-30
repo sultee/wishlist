@@ -1,10 +1,3 @@
-Stuff
-* RICOH THETA V 360
-* Rode Smartlav+ Lavalier Microphone for Smartphone
-* Adafruit Circuit Playground Express
-* Adafruit TensorFlow Lite for Microcontrollers Kit
-* R601 JW3 TTI COMBAT MASTER
-
 Books
 * How To: Absurd Scientific Advice for Common Real-World Problems by Randall Munroe
 * Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
