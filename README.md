@@ -7,3 +7,4 @@
 - [ ] [Увлажнитель воздуха](https://mi-home.lv/catalog/product/view/id/531/s/mi-smart-antibacterial-humidifier/category/144/)
 - [ ] Электрическая отвертка или [шуруповерт](https://mi-home.lv/mi-cordless-screwdriver) (необязательно именно этот)
 - [ ] мультитул Leatherman [Skeletool](https://www.arsenal.lv/lv/nazi-un-iekartas/nazi-un-daudzfunkcionalas-iek/leatherman-instruments-skeletool-topo) или [Signal](https://www.arsenal.lv/lv/nazi-un-iekartas/nazi-un-daudzfunkcionalas-iek/leatherman-instruments-signal)
+- [ ] умные книжки [из этого списка](https://github.com/sultee/wishlist/blob/master/list.py)
