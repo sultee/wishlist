@@ -8,7 +8,7 @@
 - [ ] умные книжки [из этого списка](https://github.com/sultee/wishlist/blob/master/list.py)
 
 *игры для Nintendo Switch:*
-- [ ] The Legend of Zelda: Breath of the Wild
+- [x] The Legend of Zelda: Breath of the Wild
 - [ ] Animal Crossing: New Horizons
 - [ ] Super Mario Odyssey
 - [ ] Metroid Dread
